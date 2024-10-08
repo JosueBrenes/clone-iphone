@@ -10,6 +10,15 @@
 *.userosscache
 *.sln.docstates
 
+# Entity Framework edmx files and generated code
+*.edmx
+*.edmx.diagram
+*.tt
+*.Context.tt
+*.csdl
+*.ssdl
+*.msl
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
